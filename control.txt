@@ -1,0 +1,5800 @@
+File: Makefile
+Size: 1863 bytes
+Date: 2025-01-29 10:38:17
+Type: File
+
+File: config
+Size: 305 bytes
+Date: 2025-01-29 10:31:46
+Type: File
+
+File: 045c82d37410e03935baf1677e072bbcc12c25
+Size: 53 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: 23c7f2ddf8d0d50c9aa75d8a4d1008cf9d7882
+Size: 126 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: db7fc40c2c802f61e6b087c5e7d8ad475e3148
+Size: 710 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Size: 15 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: 066245eb5e691a950330372abddff7a21a306f
+Size: 82 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: 55a80f6af14c483385317b14884a2e16288095
+Size: 98 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-29 10:31:46
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-29 10:31:46
+Type: File
+
+File: index
+Size: 445 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 13 bytes
+Date: 2025-01-29 10:31:44
+Type: File
+
+File: random.cpp
+Size: 705 bytes
+Date: 2025-01-29 10:38:17
+Type: File
+
+File: random.h
+Size: 118 bytes
+Date: 2025-01-29 10:38:17
+Type: File
+
+File: Main.cpp
+Size: 219 bytes
+Date: 2025-01-29 10:38:17
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-01-24 14:19:38
+Type: File
+
+File: launch.json
+Size: 333 bytes
+Date: 2025-01-24 14:19:38
+Type: File
+
+File: control.txt
+Size: 98287 bytes
+Date: 2025-02-11 12:37:41
+Type: File
+
+File: main.o
+Size: 54888 bytes
+Date: 2025-02-05 12:31:58
+Type: File
+
+File: population.txt
+Size: 4958 bytes
+Date: 2025-02-04 09:56:11
+Type: File
+
+File: pop
+Size: 80176 bytes
+Date: 2025-02-05 12:31:58
+Type: File
+
+File: Makefile
+Size: 1856 bytes
+Date: 2025-02-05 11:27:49
+Type: File
+
+File: main.d
+Size: 25 bytes
+Date: 2025-02-05 12:31:57
+Type: File
+
+File: .gitignore
+Size: 954 bytes
+Date: 2025-02-04 09:47:26
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-02-05 12:32:53
+Type: File
+
+File: config
+Size: 316 bytes
+Date: 2025-02-04 09:47:47
+Type: File
+
+File: 6e7ee5895d743891f9552f1511154b8f3efb36
+Size: 18311 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 27b8bf858d1e6e765b5ccd742d02ae80ace88f
+Size: 700 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 6d0e52d0beca7e191bf6f42d6ca89f6839f95e
+Size: 224 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: fa2dbbeded0cef17bd11ae075a26fc0d8c9822
+Size: 119 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 1ef7db3ac3707b76d13ce05dbde18e323a0880
+Size: 355 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 98d001caf1468dd79c32ad2d21c019b049c9b3
+Size: 119 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 98ee8a6cd3ea39313ffe40cdd312e5bf5a62b4
+Size: 138 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: ea843f461d792451c525d7e691c70436127d3e
+Size: 184 bytes
+Date: 2025-02-04 13:04:25
+Type: File
+
+File: b76dc85dc1c078e9993ab15896c04ba1d9b655
+Size: 246 bytes
+Date: 2025-02-04 13:04:25
+Type: File
+
+File: 1098fa972d940527eefac5b6e74cac34d865d9
+Size: 277 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: a165d74079bb5418c5db3c7281b3a8acccf627
+Size: 622 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 075e2d0d919c19a69efdbccee925c856902eb5
+Size: 182 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 06104b438dc68922210179e7eecdca727af32a
+Size: 379 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 4063d8ae24a56ec8a41db7519cf9417ca8411c
+Size: 156 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: 88d93f3ec11a052478eeeadeeacb469ee10316
+Size: 218 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 976b3d91d167e7f24a59a2bd02063a580deaf5
+Size: 307 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 3df296fe3c584c0e2905227d35861ac957253c
+Size: 156 bytes
+Date: 2025-02-04 10:05:44
+Type: File
+
+File: 86f5e0ac76a966165a22bcbf213cb53c04a551
+Size: 53 bytes
+Date: 2025-02-04 13:04:25
+Type: File
+
+File: 957c5bdb1a51194139e4a0c34960b6fa8198c9
+Size: 247 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 416f5692b6337b753dfe12b742c9ae8bbafdf9
+Size: 146 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: d3b6fba26a68a51b7e0d32c15b8396873aaf8b
+Size: 53 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: e3cc7f7945be7edce79c00ad7d2f480ff81a3a
+Size: 359 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 8b3f4de8dde9c5f86a1807ea973595ef8ac820
+Size: 617 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 3c717da82d39ca429194e59d1353b798d917eb
+Size: 479 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 18df47bb0e1e024bdd90f8b49df1b8f499a173
+Size: 126 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: 0c3122480255f005b1f35c552e5d33516bd025
+Size: 246 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: de4f8fbd822f59236b5d6a4c9100bb2b967739
+Size: 260 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 4c72015b9452b1139065b071538d841e807437
+Size: 239 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 52b9fbbc5c5b52333969ce5ea6185295a24bfe
+Size: 227 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 9aa3e93d4c58131be7533ec32c93a91ab1c4f7
+Size: 53 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 8e7862cb947acf1ab1c9ce23c177bc1ddf643d
+Size: 190 bytes
+Date: 2025-02-04 10:05:44
+Type: File
+
+File: ca14c28b04a2823c47c36587cb7e6baa62e21a
+Size: 134 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: c165cf33e7011b0671c20a9a777f732516158d
+Size: 254 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 20f7bc16b5e14199aae2e4580e202b0def18c8
+Size: 164 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: ff57093ec4ad5fab47cfa936f0b361ac00e912
+Size: 55 bytes
+Date: 2025-02-04 12:56:33
+Type: File
+
+File: 5e555487d9b393f3b01ae4b8f90f6c9d523f5c
+Size: 52 bytes
+Date: 2025-02-04 10:05:44
+Type: File
+
+File: cc323291b3bf68c216400a61a9ef96319ad8b9
+Size: 359 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 5ad7797d8289f8f6a297bade478437645d1fc9
+Size: 235 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: 31f95a9e946ee697d2611fe4d9867e1266a6c4
+Size: 191 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: f61eddd33b9b94fa533c63033fce203226ad27
+Size: 138 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 3c2e535d6c53584642a3421dd62e6d873444a8
+Size: 389 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 809a5742413c69db2cc70a404e5928f1e8d337
+Size: 399 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 99f3eb4989e9ce7dc75a47ed75dcb72eec8049
+Size: 156 bytes
+Date: 2025-02-04 12:56:33
+Type: File
+
+File: e4c2b538a21f2d56eeb459d13f2c25e0c58393
+Size: 147 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 6e46fa452a743b00c728b209f1180ed925a976
+Size: 708 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 81e06f65b9e29336223a31f874092c3cad5836
+Size: 269 bytes
+Date: 2025-02-04 10:05:44
+Type: File
+
+File: 9a4733f676616ae610b7c645bef5a0374bcac5
+Size: 194 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: fb970ef009bfb13d3fa86e4790424863a78123
+Size: 472 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 0c5efe1e63f113ec44dc6bdb825dccbb640b27
+Size: 247 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 821fa22e3b3808b01b7ca4fcc260a353b7f64c
+Size: 1098 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 0bd745273d78b83e0f39b3dc1e4c299d00122e
+Size: 210 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: d476f718e8dcf1b8d33372612e20cb14d43ff1
+Size: 391 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 1f0db4b659b0b4e9ff27b76453004d16ceaf1c
+Size: 184 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 1a3a2aa8c595a4e6694c0f807909704a8c0b8e
+Size: 368 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: eb325d9f186b6edf425d591cd1599d87c17615
+Size: 2847 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: 973a1d36092d3077756624070e291dfa388253
+Size: 222 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 1c22c977c11f72ab25ceabcdde5dadf96f5fd7
+Size: 619 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: f8104b51c80d9d5600fd16b2dfe239113770eb
+Size: 145 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: cc01ddb14c5d7c4e17c2c5b54b314b69c4cbf2
+Size: 276 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 8b1b748c9843dc3188c5237d98ac8dd72385f9
+Size: 197 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 24406f57b09fc1d58fbbf2d444dd4121e32390
+Size: 512 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: 4d9890915de24e7dc90baec506d5a23e6211df
+Size: 284 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 5e5fdd3af7bab4e0b36c51444547392bbb5844
+Size: 206 bytes
+Date: 2025-02-04 12:56:33
+Type: File
+
+File: 880dc74f5e4d2d9bcb2a4b92db094abc78be8d
+Size: 314 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 1b3b361f7c897523859d0b7221990e7bb5a5d7
+Size: 364 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 9b66a1a4823e42717191f6f7da54ec26816eab
+Size: 15944 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: bdf8a099605aaf7bc3c839ebb1b0b8f8b5d09a
+Size: 441 bytes
+Date: 2025-02-04 12:56:33
+Type: File
+
+File: 511bdd129ee6012054baf4757f7b395f23e574
+Size: 700 bytes
+Date: 2025-02-04 13:04:25
+Type: File
+
+File: 784e8490f47f25ec44a8b6f098829073e0d967
+Size: 198 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: c20073f63b00d767dbb2819389aa18a7c86a08
+Size: 232 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 0fe36aa7d4d2131b8fbabd3b76e55bc7ea5b81
+Size: 708 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: d625740400e2cc687f411a1972af166d70bb95
+Size: 203 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 3afef3c045759aa06edb86565807d2813b274b
+Size: 36 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 7bfbacfd5f58065c288a3dd16dfd66efc18e35
+Size: 252 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: c735436df6f30028880f13b12772d8d2677007
+Size: 171 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 4294c180cb0e582e52681f06c33c8c2d62d416
+Size: 353 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 7f7a77fe9e6ebaa6269af473a4fc86d5652a39
+Size: 281 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: c26630faa9a04f19af71ae69d71dfe29f7764c
+Size: 200 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: 658a03832bc79fe8f81f00f02b97e2fe9e2287
+Size: 228 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 2ddc95c1f60ee54229d1a189967d17e7911690
+Size: 336 bytes
+Date: 2025-02-04 13:04:24
+Type: File
+
+File: 26c889c2997c443ab3070922acd6cd6bee52dd
+Size: 331 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: HEAD
+Size: 992 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: main
+Size: 992 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: main
+Size: 438 bytes
+Date: 2025-02-05 12:32:54
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-02-04 09:47:45
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-05 12:32:54
+Type: File
+
+File: index
+Size: 2663 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 77 bytes
+Date: 2025-02-05 12:32:50
+Type: File
+
+File: FETCH_HEAD
+Size: 106 bytes
+Date: 2025-02-05 12:32:53
+Type: File
+
+File: settings.json
+Size: 1444 bytes
+Date: 2025-02-05 11:33:06
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-04 09:31:39
+Type: File
+
+File: launch.json
+Size: 347 bytes
+Date: 2025-02-04 09:31:39
+Type: File
+
+File: J.txt
+Size: 245 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: K.txt
+Size: 279 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: I.txt
+Size: 353 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: H.txt
+Size: 252 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: L.txt
+Size: 324 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: Z.txt
+Size: 213 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: M.txt
+Size: 567 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: O.txt
+Size: 190 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: X.txt
+Size: 165 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: Y.txt
+Size: 194 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: N.txt
+Size: 499 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: C.txt
+Size: 699 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: T.txt
+Size: 485 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: U.txt
+Size: 369 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: B.txt
+Size: 529 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: W.txt
+Size: 230 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: V.txt
+Size: 248 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: A.txt
+Size: 501 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: R.txt
+Size: 284 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: E.txt
+Size: 327 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: D.txt
+Size: 296 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: S.txt
+Size: 928 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: Q.txt
+Size: 191 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: F.txt
+Size: 380 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: G.txt
+Size: 458 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: P.txt
+Size: 409 bytes
+Date: 2025-02-05 12:28:08
+Type: File
+
+File: main.cpp
+Size: 2811 bytes
+Date: 2025-02-05 12:32:42
+Type: File
+
+File: .DS_Store
+Size: 12292 bytes
+Date: 2025-02-11 11:22:59
+Type: File
+
+File: Srednee.cpp
+Size: 365 bytes
+Date: 2025-01-22 09:55:33
+Type: File
+
+File: FindMax1DArray.cpp
+Size: 367 bytes
+Date: 2025-01-22 10:42:37
+Type: File
+
+File: LinearEquationSolver.cpp
+Size: 189 bytes
+Date: 2025-01-22 10:42:40
+Type: File
+
+File: README.md
+Size: 897 bytes
+Date: 2025-01-22 14:12:12
+Type: File
+
+File: QuadraticEquationSolver.cpp
+Size: 483 bytes
+Date: 2025-01-22 10:42:39
+Type: File
+
+File: FindMax3DArray.cpp
+Size: 564 bytes
+Date: 2025-01-22 10:50:18
+Type: File
+
+File: config
+Size: 314 bytes
+Date: 2025-01-22 11:45:14
+Type: File
+
+File: c30df940fdfe7a88a7ead1f5f2466a73dadc1f
+Size: 323 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: b7dec445559b705de2ba043d17d06c0aed51d9
+Size: 360 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 395d25ffb5486c30f11d817da56e427a74335c
+Size: 245 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 58eec1f6f9f65bc3e84e063a50755d7a908db4
+Size: 247 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: c8920ec852d5581ee9ee9935011e75fd14dfec
+Size: 281 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 2953a515fae421c4778cb3df142f4890a1ef3c
+Size: 291 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 66675f3424deb58daa989acf7a4dd7dde2c7ed
+Size: 153 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 76bf9318c617fea0ca6667e805071c312ee0c5
+Size: 126 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: 8ee3df01d0abb5b69256ffddd714f8bd4afae2
+Size: 278 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: c5e0f212a40b8b304943a8c9200a4b9c5dcd34
+Size: 171 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-22 11:45:14
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-22 11:45:14
+Type: File
+
+File: index
+Size: 737 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 13 bytes
+Date: 2025-01-22 11:45:12
+Type: File
+
+File: FindMax2DArray.cpp
+Size: 450 bytes
+Date: 2025-01-22 10:45:07
+Type: File
+
+File: main.cpp
+Size: 211 bytes
+Date: 2025-01-22 09:36:51
+Type: File
+
+File: reverseCities.d
+Size: 0 bytes
+Date: 2025-02-01 23:19:38
+Type: File
+
+File: formatAddress.d
+Size: 0 bytes
+Date: 2025-02-01 23:19:38
+Type: File
+
+File: Makefile
+Size: 1866 bytes
+Date: 2025-02-01 22:56:56
+Type: File
+
+File: formatNumbers.d
+Size: 0 bytes
+Date: 2025-02-01 23:19:38
+Type: File
+
+File: main.d
+Size: 0 bytes
+Date: 2025-02-01 23:19:38
+Type: File
+
+File: .gitignore
+Size: 398 bytes
+Date: 2025-02-01 23:09:51
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-02-01 23:17:14
+Type: File
+
+File: config
+Size: 305 bytes
+Date: 2025-02-01 23:10:21
+Type: File
+
+File: c8eecce9a4de69c14bc80ef89fb4008fb9b829
+Size: 128 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: c50424e8c2cee9084d92f0c887bce09a553f4b
+Size: 194 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 1cf525ca0e8ef25078574ab302e0b8df674ab5
+Size: 391 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: b179489fd30e6b9e55a0a587e191de54ce68ad
+Size: 51 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 1237f2a19c84aa4f9d607cde2fa20a5e42ac5a
+Size: 168 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 0e20490a0744d3d4a5bc04fe41205a1937b937
+Size: 51 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: ece9e0e533ed766a7a7cce9392d139a2d74137
+Size: 217 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: 642cb256358a6f1c1e7d9a155d04e57dde7006
+Size: 237 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: d166bbf7713e730c7373940c109f0bdbb3f574
+Size: 14117 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: 880c9e8e67385dc444fdd7687110e0f43e900f
+Size: 212 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: a91263946394858d5173925d7f29e035c8bb5e
+Size: 194 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: a5e6edbc74530aae6c2f4c3ee2e63a69fb4582
+Size: 297 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 38f91ed5afada726217c8d103559ab598f8de1
+Size: 51 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 4e15ab335a155cf784257582589af8fb364f0f
+Size: 127 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: d645d3cc867afce920afd9af979472f0591952
+Size: 307 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: b05fe377b6fb825d4c52723ff94216d68ba5a4
+Size: 217 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 6e92ee92aa9c47dee57096da60e43f62fbd903
+Size: 194 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: 3bc7cae507212df24d4c635d3c55d964102523
+Size: 717 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Size: 15 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: d4954141b8292f0e0445ccbfc468f73ea17193
+Size: 152 bytes
+Date: 2025-02-01 23:19:44
+Type: File
+
+File: c8603f780cffab2b805e3db5e650aa0f3feefc
+Size: 13926 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: 78e075ca78c38622cd4fbb974c600b3745dc0d
+Size: 271 bytes
+Date: 2025-02-01 23:17:12
+Type: File
+
+File: 261d25c0e368b69d1545f5a7272389963e5981
+Size: 117 bytes
+Date: 2025-02-01 23:17:55
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: HEAD
+Size: 511 bytes
+Date: 2025-02-01 23:19:44
+Type: File
+
+File: main
+Size: 511 bytes
+Date: 2025-02-01 23:19:44
+Type: File
+
+File: main
+Size: 292 bytes
+Date: 2025-02-01 23:17:15
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-02-01 23:10:19
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-01 23:19:44
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-01 23:17:15
+Type: File
+
+File: index
+Size: 909 bytes
+Date: 2025-02-01 23:17:55
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 4 bytes
+Date: 2025-02-01 23:19:44
+Type: File
+
+File: FETCH_HEAD
+Size: 95 bytes
+Date: 2025-02-01 23:17:14
+Type: File
+
+File: settings.json
+Size: 1371 bytes
+Date: 2025-02-01 23:17:01
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-01 22:43:15
+Type: File
+
+File: launch.json
+Size: 325 bytes
+Date: 2025-02-01 22:43:15
+Type: File
+
+File: formatAddress.cpp
+Size: 473 bytes
+Date: 2025-02-01 23:12:50
+Type: File
+
+File: formatNumbers.cpp
+Size: 332 bytes
+Date: 2025-02-01 23:12:58
+Type: File
+
+File: reverseCities.h
+Size: 35 bytes
+Date: 2025-02-01 22:48:11
+Type: File
+
+File: formatAddress.h
+Size: 35 bytes
+Date: 2025-02-01 22:49:36
+Type: File
+
+File: formatNumbers.h
+Size: 35 bytes
+Date: 2025-02-01 22:47:04
+Type: File
+
+File: reverseCities.cpp
+Size: 659 bytes
+Date: 2025-02-01 23:13:12
+Type: File
+
+File: main.cpp
+Size: 809 bytes
+Date: 2025-02-01 23:17:45
+Type: File
+
+File: README.md
+Size: 3064 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: .gitignore
+Size: 954 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: func.cpp
+Size: 4185 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: my_file.txt
+Size: 129 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: new_file.txt
+Size: 0 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.vcxproj.filters
+Size: 1423 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.exe.recipe
+Size: 300 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.obj.enc
+Size: 351004 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: vc143.idb
+Size: 297984 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.ilk
+Size: 1631864 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: avg_points.txt
+Size: 210 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: RPO.txt
+Size: 57 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: above_3.txt
+Size: 252 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.cpp
+Size: 1481 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.vcxproj
+Size: 6759 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: func.h
+Size: 404 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: avg_for_all_points.txt
+Size: 38 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: config
+Size: 364 bytes
+Date: 2025-01-31 18:19:33
+Type: File
+
+File: pack-560b931bcdff077fd74940a514b9114252afb8a2.pack
+Size: 344745 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: pack-560b931bcdff077fd74940a514b9114252afb8a2.idx
+Size: 1940 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: HEAD
+Size: 23 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: HEAD
+Size: 203 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: master
+Size: 203 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: HEAD
+Size: 203 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-31 18:19:30
+Type: File
+
+File: master
+Size: 41 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: HEAD
+Size: 32 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: index
+Size: 1842 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: packed-refs
+Size: 114 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: fstream-test.sln
+Size: 1308 bytes
+Date: 2025-01-31 18:19:32
+Type: File
+
+File: settings.json
+Size: 1437 bytes
+Date: 2025-01-31 18:19:19
+Type: File
+
+File: c_cpp_properties.json
+Size: 342 bytes
+Date: 2025-01-31 18:19:19
+Type: File
+
+File: launch.json
+Size: 307 bytes
+Date: 2025-01-31 18:19:19
+Type: File
+
+File: Makefile
+Size: 1890 bytes
+Date: 2025-01-28 11:42:44
+Type: File
+
+File: test.cpp
+Size: 615 bytes
+Date: 2025-01-28 09:46:19
+Type: File
+
+File: README.md
+Size: 4355 bytes
+Date: 2025-01-28 15:36:40
+Type: File
+
+File: .gitignore
+Size: 460 bytes
+Date: 2025-01-28 10:07:10
+Type: File
+
+File: remove_negatives.o
+Size: 105312 bytes
+Date: 2025-01-28 10:09:38
+Type: File
+
+File: outDebug
+Size: 43432 bytes
+Date: 2025-01-28 10:09:38
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-01-28 15:36:47
+Type: File
+
+File: config
+Size: 317 bytes
+Date: 2025-01-28 10:07:18
+Type: File
+
+File: b8dec26c24b76253c24d133de185b8d5ae284b
+Size: 1469 bytes
+Date: 2025-01-28 12:21:31
+Type: File
+
+File: bc4801934776a84873596591f4128eff36d5b8
+Size: 313 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 50faa1148694831fa8b782e1440ee073d5bd5b
+Size: 198 bytes
+Date: 2025-01-28 12:21:31
+Type: File
+
+File: c77507f8157625011ea160eaecab433a9b9770
+Size: 49 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 90d71eff4ce9604d78307c2938cd3fbff1cd52
+Size: 118 bytes
+Date: 2025-01-28 10:19:22
+Type: File
+
+File: a62eec43cf10db5ef5f8c737730df51f36d2ff
+Size: 196 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: d24cdfcebafc734baa3251038eb9a4c8f983b8
+Size: 151 bytes
+Date: 2025-01-28 12:21:31
+Type: File
+
+File: 6fefdc6e9c8ff22c47543de31edfd48a41d754
+Size: 90 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 153de241fa2917b6841a76e18f4ebc4478a5a7
+Size: 127 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 40960b6ae9cebfe6f489329033c6be502acbe5
+Size: 1018 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 7fecda1c184a054ec939b20faf39aaeab1d27c
+Size: 318 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 64d514a183c44de2c2662e320e656738e8bdc3
+Size: 117 bytes
+Date: 2025-01-28 12:15:54
+Type: File
+
+File: 8a59846f3e76d19e7212d5d028e2d56089f67b
+Size: 202 bytes
+Date: 2025-01-28 10:19:22
+Type: File
+
+File: 8e789c9b7df34f38fd0de017b219178ed0f0ca
+Size: 245 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 79c4bf0a141aa0afcc32e2f3b1e402eb40ef92
+Size: 134 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 4683b76443cb20352274fc14b8cdf640d6b4ae
+Size: 606 bytes
+Date: 2025-01-28 10:19:22
+Type: File
+
+File: cbd2dda5f6d7ae8b1c4bd2fdbaca5169a10d17
+Size: 253 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: f6ae5c7105c347e778143e815b52ee6dda3ad2
+Size: 161 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: db22a8cf3e73f580cf8e31667cfd6975264db8
+Size: 65 bytes
+Date: 2025-01-28 10:19:22
+Type: File
+
+File: 586dc29ec6118ed695b70795c63063fe59d18b
+Size: 151 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: dc3335730074bbc1efa870e242938baa378dbf
+Size: 296 bytes
+Date: 2025-01-28 10:19:22
+Type: File
+
+File: abc436a5ed3e1bacee61961bd3eedfbaa8146f
+Size: 94 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 4cbd15a65497813cb6beeb682574644d913149
+Size: 82 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: cbdcea765ffebdb5a022e9d1e6adeadba7dbd0
+Size: 108 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 3f0ba6add3a61d48bc000f626ac4570eca4117
+Size: 238 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 49a1441a406503fe821100d58484dba86f00e4
+Size: 50 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 3947c3aa83f793366a1690924562955fb1d7e1
+Size: 53 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: ffddb1467d10195c0642ed454ead8bbd5b1a65
+Size: 127 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 517e284d29d153d8caf1a70d569d249f86e02e
+Size: 102 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 4a80ed8b0dc23f4dbcae31fdde7f365a6c39af
+Size: 106 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 8a2773a6261023cb4163e64f8b653f09d27b0a
+Size: 196 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: 032062b8dbec9f22240f47ebc8dcb319968e79
+Size: 202 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: 67d2b2f9abb53ab1136996857b5df82e693265
+Size: 50 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: 6fa02f1fa08bb05198bcd3c67a907e147884e0
+Size: 1480 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: 149295dbcb9451344fb23ab2e1e5ded1bbc551
+Size: 35054 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: bb92811c9166d8dbdde96ac49fc200a0ab235a
+Size: 196 bytes
+Date: 2025-01-28 11:46:40
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: HEAD
+Size: 1001 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: main
+Size: 1001 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: main
+Size: 730 bytes
+Date: 2025-01-28 15:36:49
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-28 10:07:16
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-28 15:36:49
+Type: File
+
+File: index
+Size: 1166 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 55 bytes
+Date: 2025-01-28 15:36:46
+Type: File
+
+File: FETCH_HEAD
+Size: 107 bytes
+Date: 2025-01-28 15:36:47
+Type: File
+
+File: settings.json
+Size: 2562 bytes
+Date: 2025-01-28 11:29:52
+Type: File
+
+File: c_cpp_properties.json
+Size: 363 bytes
+Date: 2025-01-28 11:22:20
+Type: File
+
+File: launch.json
+Size: 341 bytes
+Date: 2025-01-28 09:30:35
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-28 09:43:42
+Type: File
+
+File: remove_negatives.cpp
+Size: 338 bytes
+Date: 2025-01-28 11:20:37
+Type: File
+
+File: remove_negatives.h
+Size: 91 bytes
+Date: 2025-01-28 11:29:09
+Type: File
+
+File: array_operations.h
+Size: 110 bytes
+Date: 2025-01-28 11:28:37
+Type: File
+
+File: remove_operations.h
+Size: 106 bytes
+Date: 2025-01-28 11:28:56
+Type: File
+
+File: common_operations.h
+Size: 118 bytes
+Date: 2025-01-28 11:28:59
+Type: File
+
+File: merge_arrays.cpp
+Size: 396 bytes
+Date: 2025-01-28 11:18:35
+Type: File
+
+File: remove_even_odd.cpp
+Size: 419 bytes
+Date: 2025-01-28 11:37:16
+Type: File
+
+File: main.cpp
+Size: 2846 bytes
+Date: 2025-01-28 11:46:00
+Type: File
+
+File: common_elements.cpp
+Size: 483 bytes
+Date: 2025-01-28 11:37:52
+Type: File
+
+File: pins_status
+Size: 42904 bytes
+Date: 2025-01-14 13:38:47
+Type: File
+
+File: swap_neighbors.yml
+Size: 142 bytes
+Date: 2025-01-14 11:07:57
+Type: File
+
+File: swap_neighbors
+Size: 104412 bytes
+Date: 2025-01-14 11:07:57
+Type: File
+
+File: Info.plist
+Size: 643 bytes
+Date: 2025-01-14 11:07:57
+Type: File
+
+File: cyclic_shift.yml
+Size: 140 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: cyclic_shift
+Size: 103616 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: Info.plist
+Size: 641 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: swap_neighbors.cpp
+Size: 463 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: pins_status.cpp
+Size: 517 bytes
+Date: 2025-01-14 13:38:46
+Type: File
+
+File: cyclic_shift.cpp
+Size: 504 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: main.yml
+Size: 132 bytes
+Date: 2025-01-14 13:39:52
+Type: File
+
+File: main
+Size: 103480 bytes
+Date: 2025-01-14 13:39:52
+Type: File
+
+File: Info.plist
+Size: 633 bytes
+Date: 2025-01-14 13:39:52
+Type: File
+
+File: pins_status.yml
+Size: 139 bytes
+Date: 2025-01-14 13:38:47
+Type: File
+
+File: pins_status
+Size: 103908 bytes
+Date: 2025-01-14 13:38:47
+Type: File
+
+File: Info.plist
+Size: 640 bytes
+Date: 2025-01-14 13:38:47
+Type: File
+
+File: min_positive.yml
+Size: 140 bytes
+Date: 2025-01-14 11:27:53
+Type: File
+
+File: min_positive
+Size: 103576 bytes
+Date: 2025-01-14 11:27:53
+Type: File
+
+File: Info.plist
+Size: 641 bytes
+Date: 2025-01-14 11:27:53
+Type: File
+
+File: config
+Size: 304 bytes
+Date: 2025-01-14 13:41:01
+Type: File
+
+File: 0e0c7e8dd67d7783d525f09c54b905dd004205
+Size: 57 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 0d108a41a9f79713892f163b80f6da6ea7d2f6
+Size: 82 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 7d457a9dc25755f31d01a5728f34ba3fd9df5f
+Size: 35302 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 5cdd1383ec285d36561a6238095895fc3e334c
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: ca444bd60748e21916d403231fe370d4820baf
+Size: 6077 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 697f9a05b656dd76498d17882b88c1829e8fd3
+Size: 322 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 23c8543abbaadf702800dacb4f41922ab3273b
+Size: 50 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 50f96d3302d87ace79f0a8550f115fb9126e26
+Size: 60 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 8eaf0494e886df3fa299fddba8c2918e727dc6
+Size: 267 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 1abae344937cf484d0bc33a028ceddd2758aeb
+Size: 50 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 617458d484cc8219f1d8f9a09c5cde966fa22a
+Size: 56 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 6fc44ba1398b2ecb391b8b8610ed674190a273
+Size: 326 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 5f2ee9a78be675746266b573e861ef027a59e8
+Size: 61 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 2f3cb9d4e9340e4a7d65b301442d6e9a25694c
+Size: 268 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 4e2a4451d1d0593fcc7511c0918ee6c571a958
+Size: 90 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: e5b4a8cd6adbd4035ec9618040ba65794a368c
+Size: 53 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 7db6f3e6ac688756c0c4b2ded65770be19c1f5
+Size: 34837 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 9b2bee86f2c1ff430d2322e6d396514c030798
+Size: 82 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: b708a10a82a12e5fd77bf8730560fcc0a36d2e
+Size: 90 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: a6d2df8becd294e1280f47cf53d9bc7a480010
+Size: 325 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 62d61f01d9c0c02078a24c8e66a1010382b7d1
+Size: 132 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 575010241896dbe0ecb1e44b8e3f770fe9c7fc
+Size: 55 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 7fecda1c184a054ec939b20faf39aaeab1d27c
+Size: 318 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 59e0623035007422f743e511636e62a1574c0d
+Size: 63 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: e842da864d71e2f20e3e58b73cf2ba1a8ac263
+Size: 57 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: ad93e1c9d5ccf73ddf208e514a88cbc241b28b
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: dd6bb635c411b8b5c453072b4c5c705f831430
+Size: 61 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: a938cf5cf9d8510dc59528448f47f2f66838c8
+Size: 126 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 917a068f2a87590f6e9354d82037b886211118
+Size: 81 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: adb5317d5c6b67a606b6d727ac9b5f787ff3d5
+Size: 34985 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 6473df3f48bb8aa5fd3054a3304ea6d5502b71
+Size: 34752 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 4ee5fff3ef33f399b63e2c2d4fc43bac7eb21e
+Size: 126 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 4751e4cecc6f7a1127538cb46206a9d4475afe
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: cb6491a3a82d0494b0216c77f2bb9939a4518a
+Size: 5894 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 1c3ac60c8805455cbf7c0d101483d37ba19347
+Size: 50 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 65237a766dd202a95190173091a7b8c7bd7631
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: ffef79edf4f06c4a9c94e3f1a28d427c380ff5
+Size: 512 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 0d0dcebbc5ac5b0b15e07cfce3cd0621116d28
+Size: 50 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: e5ae8a8259bca5258204c50a289226c1345084
+Size: 133 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 67790d3e711b6c1609481e05f163838731fc55
+Size: 277 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: f675dbbe9575a8c42cc2f34f524edb6d0958d4
+Size: 34827 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 8fefb80d3911f708feeb561ab1a34dfdf24b13
+Size: 5965 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 2751d5264f00659af1c04397cdb13f5e1081ed
+Size: 383 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: b22b1e4afa4b29b2edc3726ee500c59bba3750
+Size: 50 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 1b79e78b9a60d6fd3f5ad2960c952f0a280b3a
+Size: 91 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 382c538add7dc571fcddebf3c8e18050443317
+Size: 133 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 3f71b744b6685f5b3717000ee6cb0149c741f1
+Size: 5917 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: b94510c9d215f8988dcee58103a8c9de5b45de
+Size: 82 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: efe892876d5eed28476d16eb3ca70b1ba1f76f
+Size: 82 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 0f61b990c3e1217ce30a643737129f71cccc1e
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 61655a6f135e8566bda1c200347969f35b901a
+Size: 5804 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: ef96540b61ee24b8786ff80f86d524664017c3
+Size: 90 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 844d629f26a77773e4348e8511672134550d60
+Size: 49 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 881f79a8d024498f2afd0db76ce56a1242b890
+Size: 91 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 630c516f64246584a71b17676efc6a81c65fa4
+Size: 59 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 4791eea8630962c33667ce7bc0157b4c7afcd7
+Size: 325 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 74e6fb74af2176f2b8e3f5dfb2c218e843ddb0
+Size: 275 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: d7d96cd2fe0078b4b711388b240b6596661346
+Size: 131 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: 23e3e4a2dc58b55648dd21550e3a203d89dabc
+Size: 200 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-14 13:41:01
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-14 13:41:01
+Type: File
+
+File: index
+Size: 3782 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 13 bytes
+Date: 2025-01-14 13:40:58
+Type: File
+
+File: settings.json
+Size: 62 bytes
+Date: 2025-01-14 13:41:47
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-14 11:07:13
+Type: File
+
+File: main
+Size: 43032 bytes
+Date: 2025-01-14 13:39:52
+Type: File
+
+File: min_positive
+Size: 43056 bytes
+Date: 2025-01-14 11:27:53
+Type: File
+
+File: main.cpp
+Size: 331 bytes
+Date: 2025-01-14 13:41:48
+Type: File
+
+File: swap_neighbors
+Size: 43328 bytes
+Date: 2025-01-14 11:07:57
+Type: File
+
+File: min_positive.cpp
+Size: 475 bytes
+Date: 2025-01-14 11:28:02
+Type: File
+
+File: cyclic_shift
+Size: 43056 bytes
+Date: 2025-01-14 11:12:32
+Type: File
+
+File: main.o
+Size: 37888 bytes
+Date: 2025-02-11 12:37:35
+Type: File
+
+File: utils.o
+Size: 25824 bytes
+Date: 2025-02-11 12:37:35
+Type: File
+
+File: comparison.o
+Size: 31096 bytes
+Date: 2025-02-11 12:37:34
+Type: File
+
+File: file_operations.o
+Size: 55464 bytes
+Date: 2025-02-11 12:37:35
+Type: File
+
+File: Makefile
+Size: 1874 bytes
+Date: 2025-02-11 11:41:14
+Type: File
+
+File: myapp
+Size: 89544 bytes
+Date: 2025-02-11 12:37:35
+Type: File
+
+File: comparison.d
+Size: 0 bytes
+Date: 2025-02-11 12:37:34
+Type: File
+
+File: utils.d
+Size: 54 bytes
+Date: 2025-02-11 12:37:34
+Type: File
+
+File: main.d
+Size: 98 bytes
+Date: 2025-02-11 12:37:34
+Type: File
+
+File: file_operations.d
+Size: 0 bytes
+Date: 2025-02-11 12:31:47
+Type: File
+
+File: settings.json
+Size: 1423 bytes
+Date: 2025-02-11 12:37:10
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-11 10:50:09
+Type: File
+
+File: launch.json
+Size: 325 bytes
+Date: 2025-02-11 10:50:09
+Type: File
+
+File: utils.cpp
+Size: 1531 bytes
+Date: 2025-02-11 12:36:17
+Type: File
+
+File: comparison.h
+Size: 305 bytes
+Date: 2025-02-11 12:36:44
+Type: File
+
+File: utils.h
+Size: 121 bytes
+Date: 2025-02-11 11:19:47
+Type: File
+
+File: file_operations.h
+Size: 198 bytes
+Date: 2025-02-11 11:14:16
+Type: File
+
+File: file_operations.cpp
+Size: 1256 bytes
+Date: 2025-02-11 11:13:59
+Type: File
+
+File: comparison.cpp
+Size: 1070 bytes
+Date: 2025-02-11 12:37:31
+Type: File
+
+File: main.cpp
+Size: 893 bytes
+Date: 2025-02-11 12:36:15
+Type: File
+
+File: Makefile
+Size: 1858 bytes
+Date: 2025-02-05 11:03:31
+Type: File
+
+File: settings.json
+Size: 1446 bytes
+Date: 2025-02-05 11:02:29
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-05 10:03:43
+Type: File
+
+File: launch.json
+Size: 321 bytes
+Date: 2025-02-05 10:03:43
+Type: File
+
+File: new.txt
+Size: 0 bytes
+Date: 2025-02-05 09:39:23
+Type: File
+
+File: main.cpp
+Size: 1350 bytes
+Date: 2025-02-05 11:07:04
+Type: File
+
+File: .DS_Store
+Size: 6148 bytes
+Date: 2025-01-28 10:02:31
+Type: File
+
+File: 01234.cpp
+Size: 497 bytes
+Date: 2025-01-15 10:51:40
+Type: File
+
+File: zvezda.yml
+Size: 142 bytes
+Date: 2025-01-15 10:14:54
+Type: File
+
+File: zvezda
+Size: 103960 bytes
+Date: 2025-01-15 10:14:54
+Type: File
+
+File: Info.plist
+Size: 635 bytes
+Date: 2025-01-15 10:14:54
+Type: File
+
+File: swap.yml
+Size: 140 bytes
+Date: 2025-01-15 10:58:28
+Type: File
+
+File: swap
+Size: 104624 bytes
+Date: 2025-01-15 10:58:28
+Type: File
+
+File: Info.plist
+Size: 633 bytes
+Date: 2025-01-15 10:58:28
+Type: File
+
+File: kinoteatr
+Size: 43016 bytes
+Date: 2025-01-15 11:45:45
+Type: File
+
+File: swap
+Size: 43144 bytes
+Date: 2025-01-15 10:58:28
+Type: File
+
+File: swap.cpp
+Size: 710 bytes
+Date: 2025-01-15 10:58:28
+Type: File
+
+File: max.cpp
+Size: 874 bytes
+Date: 2025-01-15 09:57:12
+Type: File
+
+File: magic_square.cpp
+Size: 1468 bytes
+Date: 2025-01-15 11:27:08
+Type: File
+
+File: kinoteatr.cpp
+Size: 901 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: max
+Size: 43184 bytes
+Date: 2025-01-15 09:56:58
+Type: File
+
+File: kinoteatr.yml
+Size: 145 bytes
+Date: 2025-01-15 11:45:45
+Type: File
+
+File: kinoteatr
+Size: 103996 bytes
+Date: 2025-01-15 11:45:45
+Type: File
+
+File: Info.plist
+Size: 638 bytes
+Date: 2025-01-15 11:45:45
+Type: File
+
+File: zvezda.cpp
+Size: 627 bytes
+Date: 2025-01-15 10:14:54
+Type: File
+
+File: main.yml
+Size: 140 bytes
+Date: 2025-01-15 09:42:46
+Type: File
+
+File: main
+Size: 104408 bytes
+Date: 2025-01-15 09:42:46
+Type: File
+
+File: Info.plist
+Size: 633 bytes
+Date: 2025-01-15 09:42:46
+Type: File
+
+File: config
+Size: 312 bytes
+Date: 2025-01-15 09:51:05
+Type: File
+
+File: f3e0e6ed9c0c8bb6bf3eb6b14a32d58e75a1b2
+Size: 317 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 0d696c27fa8dd58326ec22ea99ea210405c384
+Size: 49 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: e0ce70d91fda8f41d40baedc3128edcfdf577e
+Size: 50 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: deffd536e3f6cbc1e2f77493c1c8d89bc79d8f
+Size: 47 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 7f6f857ece751c68ec88dcd36442901dd603a5
+Size: 6136 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 6f9997cbd9c4fceeaf90d65458fd81129cc43d
+Size: 54 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: a227230c1accce34430e5dee7e5cda12a24193
+Size: 82 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: c96815d5beed3feca4106a3ebb112430ffd4cb
+Size: 278 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 49d0dcad4fb8158f148f79defe5e972fcefcaf
+Size: 49 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 6d548f61c57cac5fef76a00114349718f79809
+Size: 34976 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: f682eb981c01826bafc61602920691e65ce47c
+Size: 49 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: f921b6e1348e1507640861b55cd66b690e9cb1
+Size: 51 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: ef35b35cf3afbd8a459ad65058f30dba128eba
+Size: 49 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 838973acc54df9eb509b2e672a3d436c742c49
+Size: 50 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 1a279b1f653c29307b59faa93552d81824e790
+Size: 50 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: c9aecdb32d3ade03613f654c8775a32e9566b0
+Size: 52 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 83bf5aff0e356d07833b246bfd7f5f0894ff8d
+Size: 53 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: b07de0fdd05bc6571bb7ed6416203f50f0ef5a
+Size: 53 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: bc39660aa5d04ef0c58ed700beddcc8ac31f6c
+Size: 6314 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 575010241896dbe0ecb1e44b8e3f770fe9c7fc
+Size: 55 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 7fecda1c184a054ec939b20faf39aaeab1d27c
+Size: 318 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: fd78a3ba609b6338103eec284fcab30be7eb7b
+Size: 6175 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 0ef59d3968404242c6aeee3c51438f5c71e444
+Size: 360 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 4b64ed374ed4b658b0073a76ed50a38b953929
+Size: 132 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 136c4fd268ef8ba99fe3ec10164d19ef42b767
+Size: 135 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: a19796247eec7f4d88eced024290602d5323d7
+Size: 550 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: d5836412faafe85f6971d466b6026492c6654c
+Size: 83 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 82f58e0fe8d2e28cae51002ce3807a33db5777
+Size: 91 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 2eff208b4a5b19fdcaa8291b18b7e630501ced
+Size: 35212 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 7c1a41b32af7b12a1e208a2df5412b9d29fdaf
+Size: 51 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 13c30595cd52203355c2ad7a3c4a128efcebb8
+Size: 148 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: e620808ba2b8e29820928554f23381a2c6bb58
+Size: 244 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: e1411dd715362ee77ebd9a4201aebe70825f53
+Size: 265 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 29e38cbef2e9663a6d4eb01eb9aa27a8ff5a8a
+Size: 50 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 5eae5c2ecd56a06ad7fbeef62687c3516009b7
+Size: 35375 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 4ff6c98b95f7f40fd93ad4ef1bf44bf8f0e035
+Size: 6132 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 2751d5264f00659af1c04397cdb13f5e1081ed
+Size: 383 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 34a12a249af5aa6d601ec4996195f1c49876a2
+Size: 91 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 278f94e0658515f3bf8ee64255fda7964d0a09
+Size: 320 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: b60869795c1e48b4c4ba8d50c64b8c11872739
+Size: 49 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 848fc0eb2a8b9666351d377e2e2be61fa72b26
+Size: 35117 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 5b778822be0c56c4dc06b722f76db4d64d9fea
+Size: 131 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: d041cd0f8c912e4aad4f77353c9a883cac2886
+Size: 134 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 4818ddb4cc6870775d2eb15510cc12c2868482
+Size: 91 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: c9fc1d6a71b928aea439f834de8d0e213b7029
+Size: 84 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 967ded1bd98122ac1383dbf212a9499246efcb
+Size: 350 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 0bd09aa46058a27fdb3307ab54f0574ff7e6f3
+Size: 83 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: c3dcd136582659ae1009881b6bde262f5da736
+Size: 35030 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 75921943ff94515639a129796b8cd6e20cb738
+Size: 641 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: c729ad532c88476cce870c43c4dd5edd745120
+Size: 5982 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 77191f37fc834a703216e0c6cfdeebe1ad9703
+Size: 90 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 831b4589f731bb9406e037064c98ffee774394
+Size: 55 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 7321f10eb3bd4fd22a959a9f9909c1f5075cdc
+Size: 49 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 4c6c205fe754cf048bf966aa73a4d620856d29
+Size: 393 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 7dac1333239d43a5febc896527d48354a83589
+Size: 58 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: ef62dbbe2656dfb4f480038f867611a119ae0b
+Size: 131 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: 8400cde86f1751005225e98ecf17152983cb3d
+Size: 91 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 637939d4a98afabef2506f45c9424bda9b4afd
+Size: 126 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: b548840190e3a63ba01200c3dbe707d4a9a861
+Size: 49 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: f29d6ed0a8ba22c353b2c57297e7a99f7f3f2e
+Size: 317 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: 9671a34a61d2b4837136b2d9c2870f58a0e945
+Size: 82 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: d172c2a234f7d2fadb097a97999e58d34c85e0
+Size: 321 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-15 09:51:05
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-15 09:51:03
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-15 09:51:05
+Type: File
+
+File: index
+Size: 3723 bytes
+Date: 2025-01-15 14:29:42
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 1178 bytes
+Date: 2025-01-15 14:57:27
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-15 09:15:49
+Type: File
+
+File: main
+Size: 43192 bytes
+Date: 2025-01-15 09:42:46
+Type: File
+
+File: main.cpp
+Size: 1087 bytes
+Date: 2025-01-15 09:50:38
+Type: File
+
+File: max.yml
+Size: 139 bytes
+Date: 2025-01-15 09:56:58
+Type: File
+
+File: max
+Size: 104236 bytes
+Date: 2025-01-15 09:56:58
+Type: File
+
+File: Info.plist
+Size: 632 bytes
+Date: 2025-01-15 09:56:58
+Type: File
+
+File: zvezda
+Size: 43000 bytes
+Date: 2025-01-15 10:14:54
+Type: File
+
+File: selectionsort.cpp
+Size: 919 bytes
+Date: 2025-01-21 09:36:45
+Type: File
+
+File: insertionsort.cpp
+Size: 769 bytes
+Date: 2025-01-21 09:37:08
+Type: File
+
+File: README.md
+Size: 712 bytes
+Date: 2025-01-21 09:41:47
+Type: File
+
+File: .gitignore
+Size: 446 bytes
+Date: 2025-01-21 09:47:03
+Type: File
+
+File: bubblesort.cpp
+Size: 814 bytes
+Date: 2025-01-21 09:33:42
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-01-21 09:45:45
+Type: File
+
+File: config
+Size: 309 bytes
+Date: 2025-01-21 09:41:00
+Type: File
+
+File: f98ef2ab4b4ec00052f0b9472cf5b5e5e3e934
+Size: 82 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: d4ca23f29d4a3be24e51feea22824056cb7099
+Size: 57 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 003a897a9e197a446f7b33e9a9bf2204120c3d
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 65b78963049dbfc3dc0e73e6e18b2206743be9
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ed7ab6035967042b04a9c09b5a8bc3379da9d4
+Size: 313 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: 1d8b357294b8922373ae127bdc48a6a910a3d6
+Size: 314 bytes
+Date: 2025-01-21 09:45:41
+Type: File
+
+File: 63cf70bafb9beea939e24cd9a57c24c7b9ac16
+Size: 51 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 36f343bb5c39a1c64d59d9af02f86f86168077
+Size: 300 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 1d13648e73196848dc3664ac3c90c48629ab83
+Size: 592 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: 438e58dbdab3545445c1d1550c956269d39f78
+Size: 284 bytes
+Date: 2025-01-21 09:45:41
+Type: File
+
+File: 2589e4c9a2eb7c707081b81fcc0580e3d330a3
+Size: 54 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 8dd6fada8ed0bff7ea42dc0231904d8fe2163f
+Size: 35194 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ea1f61043fd988b2c837994d285f7d90cbf6d3
+Size: 831 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: 9fd159c6aded6ffdb0b37b59bd030ff4744134
+Size: 133 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 2064b06c533d008a5c0535a4dfb853e9e18346
+Size: 566 bytes
+Date: 2025-01-21 11:37:23
+Type: File
+
+File: 437382aea68ec132e3489e24328ab711aa75ce
+Size: 6423 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 6e1a9e881e31aeba5a478bf6fbde9e7cbf0c8f
+Size: 50 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: d29dc704bc1221f02dc1f867967f315d97b213
+Size: 615 bytes
+Date: 2025-01-21 09:42:05
+Type: File
+
+File: 487b4bee712486c42ce62758c8270030a3bcba
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 66ddaa76706f08286e3a0f434fa6c9bd25876a
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 55762b8c9b6b54404148a01fc0f116f28c0e0b
+Size: 91 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 9aaff2d42ceb3c99c2bb4c96f7d6e7527a3fc3
+Size: 481 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: c18d1a300f4654f36e56e3bf2d66a0060d3140
+Size: 65 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: f605c194eae10417a51a9674041ca2e38224ab
+Size: 6138 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 56e3dcc7e7cda1e0f3a888b0c0a9ff4eb1bc7d
+Size: 159 bytes
+Date: 2025-01-21 09:42:05
+Type: File
+
+File: 9832f0bfb32bda2ab3b294ed00c93754e2c947
+Size: 90 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 7fecda1c184a054ec939b20faf39aaeab1d27c
+Size: 318 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 8541e5b4459eb7b5a91cfc0edbae2aff0b7aef
+Size: 35438 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 6f3028542b9a14a471d34856f451d857d29998
+Size: 418 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 7ebd0325f94b0d0e4cac2c83a16fd7b07b9a78
+Size: 59 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: d334817ee9b686dc178ceb57f5c93d3d6b0627
+Size: 55 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: f2ea0e0b6e748958e1020d9135de934d0af113
+Size: 35422 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 390b860249700a55d0dc70499d3ac71937cf21
+Size: 82 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 286310613f3887f629965f2418a1e0e5e606c6
+Size: 279 bytes
+Date: 2025-01-21 11:37:28
+Type: File
+
+File: 8eceb5388b8ac25b5e25d5ef4d8bdc8ecdea9e
+Size: 58 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 6ae43a400480cd03f0640cacea4175672cd236
+Size: 91 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 44af5a0be42054270de1e9949fb706b8db18e4
+Size: 165 bytes
+Date: 2025-01-21 09:45:41
+Type: File
+
+File: ec5d62d3025e6061b92e73d8a55553361b1e78
+Size: 395 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 5e31b3be565fc835aedd325188e6d8c74b5027
+Size: 321 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 6914db2e6d92dffe01125fe5698e5fc7bdab81
+Size: 832 bytes
+Date: 2025-01-21 11:37:28
+Type: File
+
+File: 8aa8d23bda9230ade6f0b0de9ca8eea02589b6
+Size: 425 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ffc581217123e7044f8e193cde3cd3c5275afe
+Size: 132 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 8c6a56963a2fa076a229ea3f138316427d76b0
+Size: 50 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: dd45aa69c6d14f1566bec8e20ad4332732d605
+Size: 6111 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ebd4e79590c463fee9c092fae389d516c67b6e
+Size: 50 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 3b17b8167fd2a2d18830108b1fa70221eb2458
+Size: 201 bytes
+Date: 2025-01-21 11:37:24
+Type: File
+
+File: f702573b15dddda31e252ba9f20b46b761a679
+Size: 58 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 2297fd96dac903e47dad9580efb5a6f5bc2179
+Size: 83 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 1616f45b6c53f06dafb2caddbe6ad2b38facbc
+Size: 323 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 238597d2dac7b9229e663968dd12e1808f9ea8
+Size: 82 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 5920e732bb78e5bd71fe0767a7f06f38b380af
+Size: 62 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 6c2ad4ed5866b0fa0b79636f1ed017e9348e43
+Size: 52 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 78a86e874f746452593e5b3460d6497e0fa1e8
+Size: 50 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: b8c53bbb66d50d4ab32e4b3bd62cab00d06d2b
+Size: 50 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 9e07f455a78d8157cf487dbf67a951a0a50022
+Size: 278 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: d99847bbc3f2376cc85a4dca488b7e8c1de62a
+Size: 35117 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 4341cf638a45685a52db44c039659b169561e1
+Size: 565 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: 696965ec10ebce0d7296571e314b563cd36860
+Size: 58 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: aefa812d1d14e74756b70259174875e5d11e7b
+Size: 6169 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 2751d5264f00659af1c04397cdb13f5e1081ed
+Size: 383 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: abb6241fcc5682a239f7ba6902475edf4e306b
+Size: 82 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 2cf79207a0aebdf26ba448fdf19920dd876269
+Size: 134 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: d543529d7144ed1bf209b8c1dab57741a23e77
+Size: 126 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: d837a5570ea2014d4ee908b48b1c4c7b30c904
+Size: 90 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 5a90cbef5cbd994facb584505d92e7d20c2cac
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 87458164637048657ef86b8ca98f1f0340b537
+Size: 62 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ee81eda92866bef6cab2e540bb6a3199af3e57
+Size: 118 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 1563e3982fc1112176f9771a8f43591d9a3d48
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: f0f9db968fbb01bd4620f2f3064e4c361b5c34
+Size: 313 bytes
+Date: 2025-01-21 11:37:24
+Type: File
+
+File: 1da3811b8fb41340ba7aec1017046b5d54ccc3
+Size: 35076 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 807380ee2530fbdf81fdfd048ecc57f2dd1180
+Size: 320 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 5a20b54d7eacdc5609a00c571b16352ca7b141
+Size: 6141 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 0e0f5b1f5301edf842c9891f470058964d2fab
+Size: 49 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 2d3b0d42838dacc3a242070fab4beec74141f9
+Size: 6285 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 9d246102b31998e936ccdee8c7a25ef41a612f
+Size: 82 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 182f0cd6f76016a7e74ac93d6036a1b4f564f3
+Size: 392 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 34b70c40bcd5674c97a25e3601395ca12ae616
+Size: 615 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 8b6e8e59919ed0e42b3387e5635703a5778589
+Size: 166 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: 6664da29913028f87872260671fddd33e56d8d
+Size: 133 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 89737a18ef8f169c1644287e56f83c8b5c9ccf
+Size: 128 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 0a8f1875338b6115a10222be5671f279478a00
+Size: 322 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 7407ab8614929a386197d7f9281f2c90d89502
+Size: 134 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 3d70a4006fee65c131db585142f0907646931e
+Size: 91 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: ed209f7c726005a7cd718596665a6f00978abb
+Size: 90 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 5f564aefe4414227a53f617af7c8c3aa9a33cc
+Size: 575 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: e558a19a6dd2977d8e8cc2861a7add54401c09
+Size: 248 bytes
+Date: 2025-01-21 09:42:05
+Type: File
+
+File: 9f48a4c50314663dedb0f346395ac3f3b8a9e9
+Size: 54 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 8dc68b37c2b377fa2dd5a3029b67eb1d3b7068
+Size: 35081 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: 3bedf994097f5cc411440f41d66299c7b214af
+Size: 321 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: HEAD
+Size: 840 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: main
+Size: 840 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: main
+Size: 769 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-21 09:40:58
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: index
+Size: 986 bytes
+Date: 2025-01-21 11:41:31
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 320 bytes
+Date: 2025-01-21 11:42:02
+Type: File
+
+File: FETCH_HEAD
+Size: 99 bytes
+Date: 2025-01-21 11:48:17
+Type: File
+
+File: settings.json
+Size: 62 bytes
+Date: 2025-01-17 13:51:26
+Type: File
+
+File: launch.json
+Size: 500 bytes
+Date: 2025-01-17 13:13:28
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-17 12:43:49
+Type: File
+
+File: main.cpp
+Size: 841 bytes
+Date: 2025-01-21 09:37:23
+Type: File
+
+File: mergesort.cpp
+Size: 1359 bytes
+Date: 2025-01-21 09:36:56
+Type: File
+
+File: quicksort.cpp
+Size: 1327 bytes
+Date: 2025-01-21 11:40:44
+Type: File
+
+File: main.o
+Size: 46968 bytes
+Date: 2025-01-31 19:08:29
+Type: File
+
+File: Student.o
+Size: 40640 bytes
+Date: 2025-01-31 19:08:29
+Type: File
+
+File: Makefile
+Size: 1880 bytes
+Date: 2025-02-01 22:55:16
+Type: File
+
+File: avg_points.txt
+Size: 332 bytes
+Date: 2025-01-31 19:09:36
+Type: File
+
+File: Student.d
+Size: 0 bytes
+Date: 2025-01-31 19:08:28
+Type: File
+
+File: StudentManagement
+Size: 78032 bytes
+Date: 2025-01-31 19:08:29
+Type: File
+
+File: above_3.txt
+Size: 1110 bytes
+Date: 2025-01-31 19:09:02
+Type: File
+
+File: README.md
+Size: 4029 bytes
+Date: 2025-01-31 19:17:15
+Type: File
+
+File: main.d
+Size: 0 bytes
+Date: 2025-01-31 19:08:28
+Type: File
+
+File: .gitignore
+Size: 460 bytes
+Date: 2025-01-30 14:25:27
+Type: File
+
+File: my_text.txt
+Size: 407 bytes
+Date: 2025-01-31 18:52:05
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-01-31 19:17:31
+Type: File
+
+File: config
+Size: 313 bytes
+Date: 2025-01-30 14:25:40
+Type: File
+
+File: f2beaab4bb8c7ebe1b371e77de1a0d55ef395e
+Size: 127 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: 5449dc4cfa783b61ad4d0048736c92b0481ac6
+Size: 84 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: d48c23e53245b9290811d14a220fe5fef8ca6e
+Size: 389 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: bc4801934776a84873596591f4128eff36d5b8
+Size: 313 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: b2bb0df92cb512663cffc5b8a39109e6f2520c
+Size: 85 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: 3f579a11089d5cf1697a7009c34affdca5d464
+Size: 1465 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 859838d7e80ea2cdb58fb1474a9c105c744707
+Size: 194 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: f1bee1bef43d7fee205c23dd1172da3b5eb244
+Size: 1243 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 08a9af0015cb473d05a7fe34693f476c4e04bb
+Size: 206 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: 01050223d37ba4418fefd8a483f51c3530c8ca
+Size: 784 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: a8014e2dc74fc888a2b7c0f9b424125701012e
+Size: 201 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: 29cb340d9b0a808df8860299908044e8343200
+Size: 372 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: aae5538217d548d8b07cf2b560bf34fc91d3d1
+Size: 162 bytes
+Date: 2025-01-30 15:19:30
+Type: File
+
+File: 5479041fc2ac371388e0b17078daa368278772
+Size: 18438 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 0e35320150b21600e84c7512053949f1d51aa4
+Size: 119 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: 9620bc6bf9cfcfec8e6408dc93d517775a4be7
+Size: 119 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: b55b7e6df2fd3754f1e956eb66218de3d5c324
+Size: 133 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 8b21b97f1a1fa573dcc5557c64979a334ddc4a
+Size: 178 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: b1efe8fc849781a0249d8e6d7d9f3d75e6822d
+Size: 119 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 05c6f577dc9c622962cde456067bbf9c544274
+Size: 332 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 32b8a32f472dd88a0e00bba5953a9de249f259
+Size: 453 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: de467a9d648e5d383d9a0d5da6a13b4e9b7555
+Size: 84 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 0b172d79014c855eee5888e151c113383e5109
+Size: 498 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: dda13c78d48961cedbbb6a2cdc8899b4fa4f47
+Size: 53 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: 5336323a1384c1a191a1f83dfd7ac08076e60a
+Size: 54 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: f7079b6493b42a86386f9ca71e0f677e489029
+Size: 206 bytes
+Date: 2025-01-30 15:17:10
+Type: File
+
+File: c23f55dc3903d391acc56055604df2254c3daa
+Size: 200 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: 948a275857c51cbd3536981ae3ed1c6052578c
+Size: 54 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 112ac7d986b368bed45346e6a5ea4def2f9fd4
+Size: 885 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: 4903fd718efe97ce6fe47a2a01ff4137ea07f1
+Size: 601 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: a8924501ea88ef4594a5f2baa07982d6bfe491
+Size: 470 bytes
+Date: 2025-01-30 15:19:30
+Type: File
+
+File: b5c88ff476726685e4fc25e8a68247ffbc9960
+Size: 84 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: 29facda6c5cd83b827974795cbb549ee64cabc
+Size: 401 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: 6b4de2e5d87773d8bb32ccf06c3cc41210587f
+Size: 152 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 410980c410bc9ef1719b3e192ef9c684fe4be1
+Size: 54 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 9c91c2ffffef2da9bec164f61647400e825ce2
+Size: 54 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: f4028dcbe503a186040e62da204fb0f974733e
+Size: 446 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: 32a631fd620e4af24f24bde290414f92377b34
+Size: 711 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: 3a518e3ff5acfc0a8655273069b709e87cbe79
+Size: 54 bytes
+Date: 2025-01-30 15:17:10
+Type: File
+
+File: 0815df826ed1db8c4f87fe8e3b2e3561e1c683
+Size: 183 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: c5abd7ad5486060f05cbee4dbac34c6888316b
+Size: 203 bytes
+Date: 2025-01-30 15:17:10
+Type: File
+
+File: 4a422ed49db7a429f19560dd1c3030efbbe5e8
+Size: 119 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 1c784bfc73a11cdc495e50c562dfad0604bae3
+Size: 118 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: 0b2a50e738c0b4aafe5830960804030e52fecc
+Size: 84 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: 27579e3e3e9741c8c31214edee504849f255d9
+Size: 467 bytes
+Date: 2025-01-30 14:54:16
+Type: File
+
+File: 78bc1916004460b16b8e5285ab7871e51256be
+Size: 134 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: cd4c1987d2bd37b3fdb7d0855309e0bab03874
+Size: 119 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: 298867c21419aade95c6c7e27af0766bef949b
+Size: 1133 bytes
+Date: 2025-01-30 15:17:10
+Type: File
+
+File: 82eadc52b560483311ded9be7eae20d4c33ccd
+Size: 204 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 1d35282fcf1f6239e7196f4e2fa4bdc8b1d15a
+Size: 198 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: 138252473476c60fea214df4a185a1da945d88
+Size: 118 bytes
+Date: 2025-01-30 15:19:30
+Type: File
+
+File: 93506f1b4362d91439f0fe6461b42ab94128d0
+Size: 118 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 7613410f6302a941dfd0871544cef0059151b9
+Size: 194 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 41f52fdfa7f2ce9da067bd25d39ff151c64878
+Size: 1068 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: e1f6a2eb640a601ed8cc79273133ebcaeffc6e
+Size: 95 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: fb0d02e0d77a644c23f8d822f83f00d5911482
+Size: 428 bytes
+Date: 2025-01-30 14:42:36
+Type: File
+
+File: 5a0df1fb562ef5d80864e48866b4d014fc596f
+Size: 119 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: b9a314c70ca565639a3b62a8e1543b77571dc5
+Size: 154 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: f5688b9d12c0845eae155a51cf52959cb1b039
+Size: 202 bytes
+Date: 2025-01-30 14:40:27
+Type: File
+
+File: 8b1d5ae25fd4b229a74b4b5231a22a14c9fcd1
+Size: 188 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Size: 15 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 1aa7ab53c3dcc1a48f3da28763a310da81343b
+Size: 1031 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: 6170b6b76f07a97a3d6672bfa0f9ee9b788503
+Size: 215 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: a5f76c02cb1be235321256f3df01a920c1775f
+Size: 1110 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 343249beb0ee6d6b0e435a5ae4a8a735c7197c
+Size: 119 bytes
+Date: 2025-01-30 15:19:30
+Type: File
+
+File: dbb10ddac929cfd98c6c7f88181fcd95cdbdf2
+Size: 447 bytes
+Date: 2025-01-30 14:47:46
+Type: File
+
+File: bb76f5143b07842a27b2a8f26d20022fcb5792
+Size: 217 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: 160717e855deead947d97022461c9611cd4e57
+Size: 123 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: 309ab3448a05aa82cd906b712e8063e12128c9
+Size: 54 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: 7ef8274113e7c074773d7c7f13d51b202e5025
+Size: 84 bytes
+Date: 2025-01-30 15:17:10
+Type: File
+
+File: 74d7d4dc8a650d580943eba4426ebe50d6ff15
+Size: 84 bytes
+Date: 2025-01-30 14:51:30
+Type: File
+
+File: 5ab933034e6caaf4e0ac120f1959266ac55363
+Size: 54 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: a3b0f0526a8fe0b07bb900452ce4fc1d8c5621
+Size: 857 bytes
+Date: 2025-01-31 19:00:58
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: HEAD
+Size: 2019 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: main
+Size: 2019 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: main
+Size: 584 bytes
+Date: 2025-01-31 19:17:33
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-30 14:25:38
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-31 19:17:33
+Type: File
+
+File: index
+Size: 1158 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 57 bytes
+Date: 2025-01-31 19:17:29
+Type: File
+
+File: FETCH_HEAD
+Size: 103 bytes
+Date: 2025-01-31 19:17:31
+Type: File
+
+File: settings.json
+Size: 1371 bytes
+Date: 2025-01-30 14:38:05
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-01-30 14:37:52
+Type: File
+
+File: launch.json
+Size: 333 bytes
+Date: 2025-01-30 14:38:05
+Type: File
+
+File: avg_for_all_points.txt
+Size: 95 bytes
+Date: 2025-01-31 19:09:02
+Type: File
+
+File: Группа2.txt
+Size: 202 bytes
+Date: 2025-01-31 19:09:02
+Type: File
+
+File: Student.h
+Size: 1057 bytes
+Date: 2025-01-31 18:50:40
+Type: File
+
+File: Student.cpp
+Size: 5607 bytes
+Date: 2025-01-31 19:07:05
+Type: File
+
+File: main.cpp
+Size: 2866 bytes
+Date: 2025-01-31 19:04:55
+Type: File
+
+File: main.yml
+Size: 138 bytes
+Date: 2025-01-14 10:32:59
+Type: File
+
+File: main
+Size: 103892 bytes
+Date: 2025-01-14 10:32:59
+Type: File
+
+File: Info.plist
+Size: 633 bytes
+Date: 2025-01-14 10:32:59
+Type: File
+
+File: config
+Size: 137 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: b88dafbddf10e2d6090d3976c9b3d2d88b037b
+Size: 34987 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: f1fcf1d615de73f3f543af397f489f8c248184
+Size: 50 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: d3faf349bacf5d0fb05c62a1feba3d3dea139f
+Size: 131 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: ec114465170569fca5fcb5972a647931be5fbd
+Size: 49 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: 575010241896dbe0ecb1e44b8e3f770fe9c7fc
+Size: 55 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: 7fecda1c184a054ec939b20faf39aaeab1d27c
+Size: 318 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: 548f753a5d7bda552c0b10c9312b7e8913f1ed
+Size: 6026 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: b04f20c891792c7309874a74647e330ffd4bc8
+Size: 147 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: de73def88e5c2a3986014162b5df9647c1e120
+Size: 50 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: 2751d5264f00659af1c04397cdb13f5e1081ed
+Size: 383 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: e0976e41b2f7985d54d4d0ff40415aa00a87ff
+Size: 53 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: 24f0879263d42b8a86886d729575b627033f92
+Size: 91 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: d63002009cd44d8ea8673a89ad87f2b4a46be3
+Size: 82 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: c41950eb543617493b0cb9151db3e9c2be2527
+Size: 697 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-14 10:40:18
+Type: File
+
+File: index
+Size: 848 bytes
+Date: 2025-01-14 10:41:35
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 450 bytes
+Date: 2025-01-14 10:45:11
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-14 09:31:17
+Type: File
+
+File: main
+Size: 42936 bytes
+Date: 2025-01-14 10:32:59
+Type: File
+
+File: main.cpp
+Size: 1584 bytes
+Date: 2025-01-14 10:47:26
+Type: File
+
+File: game.d
+Size: 0 bytes
+Date: 2025-01-30 13:23:56
+Type: File
+
+File: Makefile
+Size: 1877 bytes
+Date: 2025-01-24 14:56:38
+Type: File
+
+File: dice.d
+Size: 0 bytes
+Date: 2025-01-30 13:23:56
+Type: File
+
+File: README.md
+Size: 3077 bytes
+Date: 2025-01-24 15:11:02
+Type: File
+
+File: main.d
+Size: 0 bytes
+Date: 2025-01-30 13:23:56
+Type: File
+
+File: .gitignore
+Size: 576 bytes
+Date: 2025-01-24 15:09:42
+Type: File
+
+File: config
+Size: 304 bytes
+Date: 2025-01-24 15:29:13
+Type: File
+
+File: a5fbcc3bf07d6473961005cc47fddf6f963a4f
+Size: 470 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: ab7a4216fd09d380a70b32a1ee3c8d403b218f
+Size: 66 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 3dc365cf0e9a33fd75b28b50e20a747f617747
+Size: 79 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: cb1fda74882bdefe463e87af6954f6a68e4b2d
+Size: 721 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: da6cf0ce0b3ea2dbe6ac8366207bc7d60f25b5
+Size: 150 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 3fcb3a88c1d3d389719113fdf3eb40f4113a71
+Size: 358 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 9949634c6648f4411020290380ffa2ce756ca0
+Size: 362 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 08d89e7de281bb3015c863223ea1fdad51dc56
+Size: 150 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: f1459daf08002deacfcf034348b3a372432aef
+Size: 145 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 7c356d3a99691c1f9797df70843fdae5e1a275
+Size: 73 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 6d69b4e512b12909f91cb36c3924334cd4c629
+Size: 1393 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: ad411a2f54fea61da9540ac09987fa3f647b95
+Size: 79 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 1f4e748719bdb79beb58e2523d82eda3a6fdd5
+Size: 126 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 2bbbfc87ff7aeeec0afbd09e644f30de9cbf01
+Size: 91 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 27ff5d20fba975f83df8ad6b829ee9671c7089
+Size: 145 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: 733b4a699a7daa3e3412a507cc5fef9d6f5925
+Size: 205 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 90803397d52d1ac4cd8b6b2dd60043c4c15e4b
+Size: 428 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: 0d24d80e216ddfb770303654c9e424863cc11e
+Size: 126 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: e3112eecb804f7a42b1744c3e591266ef28a31
+Size: 96 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: HEAD
+Size: 380 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: main
+Size: 380 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-24 15:29:13
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-24 15:16:03
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-24 15:29:13
+Type: File
+
+File: index
+Size: 765 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 79 bytes
+Date: 2025-01-24 15:26:17
+Type: File
+
+File: settings.json
+Size: 1446 bytes
+Date: 2025-01-24 22:09:14
+Type: File
+
+File: c_cpp_properties.json
+Size: 363 bytes
+Date: 2025-01-24 14:49:51
+Type: File
+
+File: launch.json
+Size: 323 bytes
+Date: 2025-01-24 14:20:15
+Type: File
+
+File: dice.cpp
+Size: 79 bytes
+Date: 2025-01-24 14:42:20
+Type: File
+
+File: game.h
+Size: 138 bytes
+Date: 2025-01-24 15:22:16
+Type: File
+
+File: dice.h
+Size: 108 bytes
+Date: 2025-01-24 15:15:50
+Type: File
+
+File: main.cpp
+Size: 725 bytes
+Date: 2025-01-24 15:26:09
+Type: File
+
+File: game.cpp
+Size: 855 bytes
+Date: 2025-01-24 15:23:04
+Type: File
+
+File: main.o
+Size: 27496 bytes
+Date: 2025-02-06 15:00:05
+Type: File
+
+File: file_manager.o
+Size: 60120 bytes
+Date: 2025-02-06 14:58:36
+Type: File
+
+File: file_manager.d
+Size: 0 bytes
+Date: 2025-02-06 14:58:35
+Type: File
+
+File: commander
+Size: 84632 bytes
+Date: 2025-02-06 15:00:05
+Type: File
+
+File: Makefile
+Size: 1878 bytes
+Date: 2025-02-06 13:36:18
+Type: File
+
+File: main.d
+Size: 59 bytes
+Date: 2025-02-06 15:00:05
+Type: File
+
+File: .gitignore
+Size: 576 bytes
+Date: 2025-02-06 14:43:41
+Type: File
+
+File: ORIG_HEAD
+Size: 41 bytes
+Date: 2025-02-06 15:01:39
+Type: File
+
+File: config
+Size: 311 bytes
+Date: 2025-02-06 14:43:53
+Type: File
+
+File: 138d3425435370685df3934b6980439f552506
+Size: 617 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: 995b1c60a79a1710e3127a3020af25f30390db
+Size: 59 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: 32ebd17cbf414b829bba3865224fdf67e03eef
+Size: 19193 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: e55c05df5cb2b08c2455a9ccb30f9e20f50845
+Size: 216 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 29fab55608ec5191e72c89920f526148167d00
+Size: 125 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 967f2b178d5b0667d3c1b7ea70cbdeaffa543b
+Size: 174 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: 598647255e52937f01d4ae96eb2b4ef352dda1
+Size: 59 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 995b49974a6a1f20de2590ddbde70e6aac3243
+Size: 124 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: a821cabfe6337ff7aaebf4546f337fd4cdde4d
+Size: 537 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: fd5ff10aabed1a15ce8fff4be074153bb469df
+Size: 154 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 3fcb3a88c1d3d389719113fdf3eb40f4113a71
+Size: 358 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: eff435407d42bcfaf70cd795630dddcc073c22
+Size: 155 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: c70f68864b7be83b7e313ad3345cd7cc35b836
+Size: 126 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: c69772b55e6dd52765cf72f3f8c5b33617a390
+Size: 190 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 9227b30dcd7c982f52988d3a5178b033a43679
+Size: 440 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: c4bb66f41fc15406681a7fa931f8f2902c2bf1
+Size: 909 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: 61274bbe7ce520bd1611d6f40bf02bffd0783a
+Size: 17764 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: 42fc6c89a1cedb7aa07863a4e3d9c9399e561e
+Size: 721 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: HEAD
+Size: 368 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: main
+Size: 368 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: main
+Size: 292 bytes
+Date: 2025-02-06 15:01:40
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-02-06 14:43:52
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-06 15:01:40
+Type: File
+
+File: index
+Size: 613 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 67 bytes
+Date: 2025-02-06 15:01:37
+Type: File
+
+File: FETCH_HEAD
+Size: 101 bytes
+Date: 2025-02-06 15:01:39
+Type: File
+
+File: settings.json
+Size: 1424 bytes
+Date: 2025-02-06 14:54:02
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-06 12:48:03
+Type: File
+
+File: launch.json
+Size: 337 bytes
+Date: 2025-02-06 12:48:03
+Type: File
+
+File: file_manager.h
+Size: 617 bytes
+Date: 2025-02-06 14:59:08
+Type: File
+
+File: file_manager.cpp
+Size: 2958 bytes
+Date: 2025-02-06 14:58:19
+Type: File
+
+File: main.cpp
+Size: 1551 bytes
+Date: 2025-02-06 15:00:01
+Type: File
+
+File: renamed_file1.txt
+Size: 42 bytes
+Date: 2025-02-07 16:47:15
+Type: File
+
+File: renamed_file2.txt
+Size: 42 bytes
+Date: 2025-02-07 16:47:15
+Type: File
+
+File: renamed_file3.txt
+Size: 42 bytes
+Date: 2025-02-07 16:47:15
+Type: File
+
+File: renamed_file4.txt
+Size: 42 bytes
+Date: 2025-02-07 16:47:15
+Type: File
+
+File: renamed_file5.txt
+Size: 42 bytes
+Date: 2025-02-07 16:47:15
+Type: File
+
+File: Makefile
+Size: 1874 bytes
+Date: 2025-02-07 16:47:00
+Type: File
+
+File: utils.d
+Size: 54 bytes
+Date: 2025-02-10 11:34:20
+Type: File
+
+File: main.d
+Size: 0 bytes
+Date: 2025-02-10 11:34:20
+Type: File
+
+File: .gitignore
+Size: 593 bytes
+Date: 2025-02-07 16:36:43
+Type: File
+
+File: config
+Size: 309 bytes
+Date: 2025-02-07 16:48:02
+Type: File
+
+File: f40eb0081aaca506eca93e28860163db25d4c1
+Size: 117 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: 5251e1b87d67666339f39a686bb1094b2b043e
+Size: 127 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: a27781b3b79ce4410479da383d90c17d238ec8
+Size: 266 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: 2b5080dd2052e1f4092519b7acf841ada323af
+Size: 225 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: efeeccddad0b87865a17262a91eda28495fc6f
+Size: 360 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: a643ab0d320f1468f5ff444bc1fbcb0c55100a
+Size: 719 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: be6c4502ebc977ae72d0644fc027be7c5fbf49
+Size: 118 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: cb2382a4a1676e2fe5146091f1f165082e70e9
+Size: 52 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: 578a08c66a576acf39cb214d8ce138c96801ff
+Size: 1053 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-02-07 16:48:02
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-02-07 16:48:02
+Type: File
+
+File: index
+Size: 525 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 13 bytes
+Date: 2025-02-07 16:48:00
+Type: File
+
+File: settings.json
+Size: 1371 bytes
+Date: 2025-02-10 11:36:29
+Type: File
+
+File: c_cpp_properties.json
+Size: 354 bytes
+Date: 2025-02-07 16:45:02
+Type: File
+
+File: launch.json
+Size: 333 bytes
+Date: 2025-02-07 16:45:02
+Type: File
+
+File: utils.cpp
+Size: 3368 bytes
+Date: 2025-02-07 16:46:19
+Type: File
+
+File: utils.h
+Size: 487 bytes
+Date: 2025-02-07 16:45:29
+Type: File
+
+File: main.cpp
+Size: 415 bytes
+Date: 2025-02-07 16:45:04
+Type: File
+
+File: factorial.cpp
+Size: 444 bytes
+Date: 2025-01-21 11:11:00
+Type: File
+
+File: cube_number.cpp
+Size: 252 bytes
+Date: 2025-01-21 11:13:30
+Type: File
+
+File: is_positive.cpp
+Size: 319 bytes
+Date: 2025-01-21 11:16:06
+Type: File
+
+File: Discriminant.cpp
+Size: 567 bytes
+Date: 2025-01-21 10:08:11
+Type: File
+
+File: draw_rectangle.cpp
+Size: 371 bytes
+Date: 2025-01-21 10:47:17
+Type: File
+
+File: README.md
+Size: 1793 bytes
+Date: 2025-01-21 11:29:34
+Type: File
+
+File: max_of_two.cpp
+Size: 257 bytes
+Date: 2025-01-21 11:14:41
+Type: File
+
+File: .gitignore
+Size: 446 bytes
+Date: 2025-01-21 11:32:49
+Type: File
+
+File: is_prime.cpp
+Size: 434 bytes
+Date: 2025-01-21 11:12:37
+Type: File
+
+File: config
+Size: 300 bytes
+Date: 2025-01-21 11:33:09
+Type: File
+
+File: defb0c049e03c51a8266c67af155658ac47502
+Size: 195 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: b6a5a441c28a70e8df15f16f1d768e7d72b3fc
+Size: 231 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 438e58dbdab3545445c1d1550c956269d39f78
+Size: 284 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 72cff6a8e4f48dfae9f4e436abedd6b282926a
+Size: 372 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 621ea42dc88acf3e13783b666ac856cb8882d7
+Size: 256 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: a0be3c03f90e7364088303a13e381ebb3b25c9
+Size: 317 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: bf2d903d683b07389eeb9164ac9ec07fd0259b
+Size: 237 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 3179d0ae8f1cc3c438823b7a17f9944287b46f
+Size: 126 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: d450bec3bb8b0c4ef4a41a55ae38492cb3e8ba
+Size: 183 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 7edf242e67c46a92fa5bd1dc3d9fad8d491ba7
+Size: 171 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 3c3ce046dc693ed38dbe909c16f890f1e3dc21
+Size: 828 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: 1b8e369a1bc6dd170d2ed3f120e3d692bf63c5
+Size: 191 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: HEAD
+Size: 21 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: exclude
+Size: 240 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: HEAD
+Size: 162 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: main
+Size: 162 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: main
+Size: 146 bytes
+Date: 2025-01-21 11:33:09
+Type: File
+
+File: description
+Size: 73 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: commit-msg.sample
+Size: 896 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-rebase.sample
+Size: 4898 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-commit.sample
+Size: 1643 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: applypatch-msg.sample
+Size: 478 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: fsmonitor-watchman.sample
+Size: 4726 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-receive.sample
+Size: 544 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: prepare-commit-msg.sample
+Size: 1492 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: post-update.sample
+Size: 189 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-merge-commit.sample
+Size: 416 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-applypatch.sample
+Size: 424 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: pre-push.sample
+Size: 1374 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: update.sample
+Size: 3650 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: push-to-checkout.sample
+Size: 2783 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: main
+Size: 41 bytes
+Date: 2025-01-21 11:33:09
+Type: File
+
+File: index
+Size: 866 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: COMMIT_EDITMSG
+Size: 13 bytes
+Date: 2025-01-21 11:33:07
+Type: File
+
+File: launch.json
+Size: 722 bytes
+Date: 2025-01-21 10:52:22
+Type: File
+
+File: tasks.json
+Size: 800 bytes
+Date: 2025-01-21 10:07:38
+Type: File
+
+File: CircleSqare.cpp
+Size: 281 bytes
+Date: 2025-01-21 10:41:38
+Type: File
+
